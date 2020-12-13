@@ -9,3 +9,4 @@ Asisten:
 **Arino Jenynof** `[05111740000096]`  
 
 Penguji: 
+**I Gede Agung Krisna Pamungkas** `[5111740000135]`
